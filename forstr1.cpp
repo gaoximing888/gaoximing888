@@ -33,7 +33,7 @@ size_t getdevindex_byname(string devname)
 void  getdevname_byindex(size_t index)
 {
     cout << devlist[index] << endl;
-    
+   countjdkaflj;    
 }
 
 int main()
